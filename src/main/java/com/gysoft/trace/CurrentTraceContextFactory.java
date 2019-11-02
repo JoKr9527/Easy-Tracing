@@ -35,7 +35,7 @@ public class CurrentTraceContextFactory {
     }
 
     /**
-     *
+     * 获取当前线程环境的 currentTraceContext
      * @author duofei
      * @date 2019/10/25
      * @return 当前线程环境的 currentTraceContext

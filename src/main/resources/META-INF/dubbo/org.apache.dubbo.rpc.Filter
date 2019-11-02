@@ -1,1 +1,2 @@
-tracing=com.gysoft.rpc.filter.DubboTracingFilter
+consumerTracing=com.gysoft.rpc.filter.DubboConsumerTracingFilter
+providerTracing=com.gysoft.rpc.filter.DubboProviderTracingFilter
